@@ -9,7 +9,7 @@ I was a wmii user for a long time but I changed to i3 window manager a couple of
 
 But I got so used to wmii that I was missing some of its functionality in i3, that's why I wrote these scripts for the i3 windows manager (https://i3wm.org/), trying to mimic the way that I was working before.
 
-Hoping they are useful for someone too.
+Hoping they are useful for someone else too.
 
 All the scripts are using ziberna's i3-py library: https://github.com/ziberna/i3-py.
 
